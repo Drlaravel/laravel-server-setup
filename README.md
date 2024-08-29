@@ -16,5 +16,8 @@ These instructions will help you set up a new server with Laravel and configure 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/laravel-server-setup.git
+   git clone https://github.com/Drlaravel/laravel-server-setup.git
    cd laravel-server-setup
+   chmod +x laravel-server-setup.sh
+   ./laravel-server-setup.sh
+   
